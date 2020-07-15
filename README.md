@@ -1,1 +1,1 @@
-# Extensions.Oracle
+# SubSonic.Core.Extensions.Oracle
